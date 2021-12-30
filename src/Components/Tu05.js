@@ -152,12 +152,12 @@ function Tu05(){
           <div className="main">
              <div className="thumbnails"> 
                 <div className={`thumbnail ${imageValue ==="BOTTOMUP"  ? 'thumbnailActive' : null}`}>
-                    <img src="../../images/Product_SIDE.png" alt="BOTTOMUP" width={100} onClick={e=>{
+                    <img src="images/Product_SIDE.png" alt="BOTTOMUP" width={100} onClick={e=>{
                         setimageValue(e.target.alt)
                     }}/>
                 </div>
                 <div className={`thumbnail ${imageValue ==="SIDE"  ? 'thumbnailActive' : null}`}>
-                    <img src={imagePath["SIDE"]?imagePath["SIDE"]:"../../images/Pendant_WHT_SIDE.png"} alt="SIDE" width={100} onClick={e=>{
+                    <img src={imagePath["SIDE"]?imagePath["SIDE"]:"images/Pendant_WHT_SIDE.png"} alt="SIDE" width={100} onClick={e=>{
                        setimageValue(e.target.alt)
                    }}/>
 
@@ -167,12 +167,12 @@ function Tu05(){
                   
                 </div>
                 <div className={`thumbnail ${imageValue ==="ISOMETRIC"  ? 'thumbnailActive' : null}`}>
-                    <img src="../../images/Product_SIDE.png" alt="ISOMETRIC" width={100} onClick={e=>{
+                    <img src="images/Product_SIDE.png" alt="ISOMETRIC" width={100} onClick={e=>{
                         setimageValue(e.target.alt)
                     }}/>
                 </div>
                 <div className={`thumbnail ${imageValue ==="BOTTOM"  ? 'thumbnailActive' : null}`}>
-                    <img src="../../images/Product_SIDE.png" alt="BOTTOM" width={100} onClick={e=>{
+                    <img src="images/Product_SIDE.png" alt="BOTTOM" width={100} onClick={e=>{
                             setimageValue(e.target.alt)
                         }}/>
                 </div>  

@@ -62,83 +62,83 @@ export const price={
 
 export const View={
     "Pendant 2m Cord":{
-        "SIDE":"../../images/Pendant_WHT_SIDE.png"
+        "SIDE":"images/Pendant_WHT_SIDE.png"
     },
     "Pendant 2m Cord":
     {
         "Black":{
-            "SIDE": "../../images/Pendant_BLK_SIDE.png",
+            "SIDE": "images/Pendant_BLK_SIDE.png",
         },
         "White": {
-            "SIDE":"../../images/Pendant_WHT_SIDE.png"
+            "SIDE":"images/Pendant_WHT_SIDE.png"
         }
     },
     "Hook 2m Cord":{
-        "SIDE":"../../images/Hook_SIDE.png"
+        "SIDE":"images/Hook_SIDE.png"
       },
     "Hook 2m Cord": {
         "White":{
-            "SIDE": "../../images/Hook_SIDE.png"
+            "SIDE": "images/Hook_SIDE.png"
         },
         "Black":{
-            "SIDE": "../../images/Hook_SIDE.png"
+            "SIDE": "images/Hook_SIDE.png"
         }  
     },
     "Surface Mount":{
-        "SIDE":"../../images/SurfaceMount_WHT_SIDE.png"},
+        "SIDE":"images/SurfaceMount_WHT_SIDE.png"},
     "Surface Mount":{
         "Black": {
-            "SIDE":"../../images/SurfaceMount_BLK_SIDE.png"
+            "SIDE":"images/SurfaceMount_BLK_SIDE.png"
         },
         "White":{
-            "SIDE":"../../images/SurfaceMount_WHT_SIDE.png"}
+            "SIDE":"images/SurfaceMount_WHT_SIDE.png"}
         
     },
     "ф 12” Bell":{
-        "SIDE": "../../images/12B_CPC_SIDE.png" },
+        "SIDE": "images/12B_CPC_SIDE.png" },
     "ф 12” Bell":{
         "Clear PC": {
-         "SIDE": "../../images/12B_CPC_SIDE.png"
+         "SIDE": "images/12B_CPC_SIDE.png"
         },
         "Black": {
-            "SIDE":"../../images/12B_BLK_SIDE.png"},
+            "SIDE":"images/12B_BLK_SIDE.png"},
         "Silver":{
-            "SIDE":"../../images/12B_SIL_SIDE.png"
+            "SIDE":"images/12B_SIL_SIDE.png"
         },
         "White":{
-            "SIDE":"../../images/12B_SIL_SIDE.png"
+            "SIDE":"images/12B_SIL_SIDE.png"
         }
     },
     "ф 16” Bell":{
-        "SIDE":"../../images/16B_CPC_SIDE.png"
+        "SIDE":"images/16B_CPC_SIDE.png"
     },
     "ф 16” Bell":{
         "Clear PC":{
-            "SIDE":"../../images/16B_CPC_SIDE.png"},
+            "SIDE":"images/16B_CPC_SIDE.png"},
         "Black":{
-            "SIDE":"../../images/16B_BLK_SIDE.png"},
+            "SIDE":"images/16B_BLK_SIDE.png"},
         "Silver":{
-            "SIDE":"../../images/16B_SIL_SIDE.png"
+            "SIDE":"images/16B_SIL_SIDE.png"
         },
         "White":{
-            "SIDE":"../../images/16B_SIL_SIDE.png"
+            "SIDE":"images/16B_SIL_SIDE.png"
         }
     },
     "ф 7” Cylinder":{
-        "SIDE":"../../images/Cylinder_WHT.png"
+        "SIDE":"images/Cylinder_WHT.png"
     },
     "ф 7” Cylinder":{
         "White":{
-          "SIDE": "../../images/Cylinder_WHT.png"
+          "SIDE": "images/Cylinder_WHT.png"
         },
         "Black":{
-            "SIDE": "../../images/Cylinder_BLK.png"
+            "SIDE": "images/Cylinder_BLK.png"
         },
         "Silver":{
-            "SIDE":"../../images/Cylinder_WHT.png"
+            "SIDE":"images/Cylinder_WHT.png"
         },
         "Clear PC":{
-            "SIDE":"../../images/Cylinder_WHT.png"},
+            "SIDE":"images/Cylinder_WHT.png"},
 
     }
     
